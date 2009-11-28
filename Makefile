@@ -93,6 +93,9 @@ tables: $(SRCDIR)/create_tables.rb
 	ruby $(SRCDIR)/create_tables.rb > $(SRCDIR)/tables
 
 $(TARGET): $(OBJS)
+	@if [ ! -d $(BINDIR) ]; then \
+		mkdir $(BINDIR); \
+	fi
 	$(CC) $(LDFLAGS) $(CALFLAGS) $(ALGS) $(DEFS) -o $(BINDIR)/$@ $(OBJS) $(LIBS)
 
 .cpp.o:
