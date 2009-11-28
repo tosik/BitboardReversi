@@ -1,0 +1,54 @@
+8
+
+dir
+2
+file:///home/sohda/repos/bitboard_reversi/scripts
+file:///home/sohda/repos
+
+
+
+2008-03-22T23:12:51.586600Z
+1
+p04user
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1ae1bbca-f865-11dc-9be6-4912d9a1da76
+
+run_algorithm_definition.rb
+file
+
+
+
+
+2008-03-22T23:15:33.000000Z
+d7437e434ca7ef6ae432f9af5b543f3a
+2008-03-22T23:12:51.586600Z
+1
+p04user
+has-props
+
+duel.rb
+file
+
+
+
+
+2008-03-22T23:15:33.000000Z
+d35cc19b7ef4bc9ee84633315bed74f4
+2008-03-22T23:12:51.586600Z
+1
+p04user
+has-props
+

@@ -1,0 +1,2 @@
+// MNM MNM MNM
+        Bitboard m = getBitByMNM(mobility,o,1);
