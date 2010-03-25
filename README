@@ -1,0 +1,8 @@
+= BitboardReversi README =
+
+BitboardReversi is very fast reversi engine using Bitboad algorithm <http://en.wikipedia.org/wiki/Bitboard>.
+
+= Usage =
+make SIZE_X=5 SIZE_Y=5
+./bin/bbmnm_negaalpha
+
