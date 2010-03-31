@@ -2,6 +2,11 @@
 
 BitboardReversi is very fast reversi engine using Bitboad algorithm <http://en.wikipedia.org/wiki/Bitboard>.
 
+ * fast reversi engine using bitboard
+ * algorithms for fast searching game-tree of reversi
+ * tools for analyzing perfect play of reversi game
+ * written in C++ and standerd library
+
 = Usage =
 make SIZE_X=5 SIZE_Y=5
 ./bin/bbmnm_negaalpha
