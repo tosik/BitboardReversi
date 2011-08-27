@@ -3,7 +3,7 @@
  * @brief	設定ファイルが正しく書かれているか検証する。
  * 間違っていればプリプロセッサがエラーを出す
  *
- * @author	P-04148 廣岡 聡之
+ * @author	Toshiyuki Hirooka
  *
  */
 

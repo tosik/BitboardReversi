@@ -1,7 +1,7 @@
 /** @file
  * @brief	Bitboard Reversi ƒNƒ‰ƒX
  *
- * @author	P-04148 œA‰ª ‘”V
+ * @author	Toshiyuki Hirooka
  *
  */
 

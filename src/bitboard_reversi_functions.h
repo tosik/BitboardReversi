@@ -1,7 +1,7 @@
 /** @file
  * @brief	Bitboard Reversi 関数のヘッダファイル
  *
- * @author	P-04148 廣岡 聡之
+ * @author	Toshiyuki Hirooka
  */
 
 #pragma once

@@ -1,6 +1,6 @@
 /** @file
  * @brief	Bitboard Reversi ヘッダファイル
- * @author	P-04148 廣岡 聡之
+ * @author	Toshiyuki Hirooka
  *
  * Bitboard を用いた NxM に対応のリバーシ
  *

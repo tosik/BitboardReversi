@@ -1,7 +1,7 @@
 /** @file
  * @brief	Bitboard Reversi İ’èƒtƒ@ƒCƒ‹
  *
- * @author	P-04148 œA‰ª ‘”V
+ * @author	Toshiyuki Hirooka
  */
 
 #pragma once

@@ -1,7 +1,7 @@
 /** @file
  * @brief	Move Ordering•]‰¿ŠÖ”
  *
- * @author	P-04148 œA‰ª ‘”V
+ * @author	Toshiyuki Hirooka
  *
  */
 
