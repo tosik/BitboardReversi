@@ -115,9 +115,9 @@ clean:
 
 .PHONY:	ctags
 ctags:
-	ctags -R
+#	ctags -R
 
 .PHONY:	docs
 docs:
-	doxygen
+#	doxygen
 
